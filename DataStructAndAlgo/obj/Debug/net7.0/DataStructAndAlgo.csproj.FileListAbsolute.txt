@@ -1,0 +1,14 @@
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\bin\Debug\net7.0\DataStructAndAlgo.exe
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\bin\Debug\net7.0\DataStructAndAlgo.deps.json
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\bin\Debug\net7.0\DataStructAndAlgo.runtimeconfig.json
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\bin\Debug\net7.0\DataStructAndAlgo.dll
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\bin\Debug\net7.0\DataStructAndAlgo.pdb
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\DataStructAndAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\DataStructAndAlgo.AssemblyInfoInputs.cache
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\DataStructAndAlgo.AssemblyInfo.cs
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\DataStructAndAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\DataStructAndAlgo.dll
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\refint\DataStructAndAlgo.dll
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\DataStructAndAlgo.pdb
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\DataStructAndAlgo.genruntimeconfig.cache
+C:\Users\Kristine Verna\Desktop\TYN\DataStructAndAlgoCSharpYT\DataStructAndAlgo\obj\Debug\net7.0\ref\DataStructAndAlgo.dll

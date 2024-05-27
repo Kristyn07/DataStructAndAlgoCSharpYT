@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DataStructAndAlgo/1.0.0": {
+        "runtime": {
+          "DataStructAndAlgo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataStructAndAlgo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
